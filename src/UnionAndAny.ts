@@ -17,3 +17,5 @@ for(let order of orders){
 }
 
 console.log(currOrders);
+
+// here try to ignore 'any' datatype 
